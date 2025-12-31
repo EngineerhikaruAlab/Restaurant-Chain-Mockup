@@ -1,0 +1,12 @@
+{
+    "name": "hikaru-lin2/restaurant-chain-mockup",
+    "autoload": {
+        "psr-4": {
+            "HikaruLin2\\RestaurantChainMockup\\": "src/"
+        }
+    },
+
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
