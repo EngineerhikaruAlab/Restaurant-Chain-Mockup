@@ -1,5 +1,5 @@
 {
-    "name": "hikaru-lin2/restaurant-chain-mockup",
+    "name": "engineerhikaru/restaurant-chain-mockup",
     "autoload": {
         "psr-4": {
             "Models\\": "src/Models/",
